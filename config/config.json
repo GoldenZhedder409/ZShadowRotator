@@ -1,0 +1,34 @@
+{
+  "chain_length": 5,
+  "rotate_min": 10,
+  "rotate_max": 25,
+  "tor_enabled": true,
+  "tor_port": 9050,
+  "tor_control_port": 9051,
+  "local_port": 1080,
+  "health_check_interval": 30,
+  "proxy_timeout": 10,
+  "max_retries": 3,
+  "selected_countries": [
+    "USA",
+    "Germany",
+    "Japan",
+    "Brazil",
+    "Singapore",
+    "Netherlands",
+    "Canada",
+    "India"
+  ],
+  "excluded_countries": [
+    "China",
+    "Russia",
+    "Iran"
+  ],
+  "protocols": [
+    "SOCKS5",
+    "HTTP"
+  ],
+  "auto_update_proxy": true,
+  "log_level": "info",
+  "debug_mode": false
+}
