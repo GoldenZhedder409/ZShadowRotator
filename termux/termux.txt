@@ -1,0 +1,1 @@
+This is the bridge, if you want to download it on Termux, there might be a few bugs, you can fix it yourself, I'm lazy
