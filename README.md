@@ -485,16 +485,16 @@ Root Required No No Sometimes Optional
 
 Contact:
 
-· GitHub: @GolDer409
-· Twitter: @GoldenZhedder
-· Email: golden.zhedder@protonmail.com
+· GitHub: https://github.com/GoldenZhedder409
+· Twitter: https://x.com/man435549
+· Email: Zhedder409@protonmail.com
 
 Support the Project:
 
 · ⭐ Star on GitHub
 · 🐛 Report bugs
 · 🔧 Submit pull requests
-· 💰 Donate: BTC - 1GoldenZhedderAddressHere
+· 💰 Donate: XMR - my wallet : 83EzZCumdrRHcHF4pLd4uJ6hHpzwB81eXKfJktn6s4PQ8gZSqjtuZEsTSksDXdhn2jQp8pD2fiE1GTf5ysWBZWh867FCNBC
 
 ---
 
@@ -527,7 +527,7 @@ Be invisible. Be free. Use ZShadowRotator. 🔥
 
 ---
 
-Made with ❤️ by @GolDer409 A.K.A GoldenZhedder409
+Made by @GolDer409 A.K.A GoldenZhedder409
 Version 1.0 | March 2025
 
 ```bash
