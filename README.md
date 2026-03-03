@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Go-1.26.0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Termux/Linux-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Termux/Linux/MacOS-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Final-yellow?style=for-the-badge" />
 </p>
 
