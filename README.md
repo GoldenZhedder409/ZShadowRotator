@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Go-1.26.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Termux/Linux-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-AlwaysDevelopment-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Final-yellow?style=for-the-badge" />
 </p>
 
 Created by: @GolDer409 A.K.A GoldenZhedder409
